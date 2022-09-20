@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* end of header section */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,8 +49,9 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* end of header section */
+/* start of background picture */
+.background {
     height: 900px;
     width: 100%;
     margin-bottom: 50px;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* end of background picture */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +69,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* start of content */
+/* start of content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* start of services */
+
+/* start of services section */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,8 +93,9 @@ p {
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
-/* end of services */
+/* end of services section*/
 }
+/* background image and  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
